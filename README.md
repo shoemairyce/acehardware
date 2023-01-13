@@ -1,4 +1,4 @@
 # shoemairyce.github.io
-Sam Pelonia
+## Sam Pelonia
 
- **Acehardware**
+ # **Acehardware**
