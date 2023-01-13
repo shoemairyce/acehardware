@@ -1,7 +1,7 @@
 # shoemairyce.github.io
 ## Sam Pelonia
 
- # **Acehardware**
+# **Acehardware**
 
 | Tools| How to use it |
 | ----------- | ----------- |
