@@ -7,5 +7,5 @@
 | ----------- | ----------- |
 | Screwdriver | bagay siya sa screw |
 | Hammer | pamukpok |
-| Pliers | for gripping something round |
-| Wrench | used for gripping, fastening, tightenig, etc. things |
+| Pliers | pang grip sa mga round na bagay |
+| Wrench | hindi siya yung dressing/sauce ha |
