@@ -5,7 +5,7 @@
 
 | Tools| How to use it |
 | ----------- | ----------- |
-| Screwdriver | to screw things |
-| Hammer | to beat things |
+| Screwdriver | bagay siya sa screw |
+| Hammer | pamukpok |
 | Pliers | for gripping something round |
 | Wrench | used for gripping, fastening, tightenig, etc. things |
