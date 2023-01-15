@@ -3,7 +3,10 @@
 
 # **Acehardware**
 
-| Tools| How to use it |
+![handy manny](https://user-images.githubusercontent.com/122424207/212526636-9c75395b-55d3-4444-910b-22ff6c5e39fe.jpg)
+
+
+| **Tools**| **How to use it** |
 | ----------- | ----------- |
 | Screwdriver | bagay siya sa screw |
 | Hammer | pamukpok |
